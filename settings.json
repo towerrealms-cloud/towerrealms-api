@@ -1,0 +1,10 @@
+{
+  "gameDirectory": "game",
+  "language": "English",
+  "autoLogin": false,
+  "musicVolume": 0.5,
+  "enableNotifications": true,
+  "enableFriendNotifications": true,
+  "autoAcceptGameInvites": false,
+  "notificationSound": "default"
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "timestamp": "2025-10-29T10:00:00Z",
+    "message": "🔥 Double EXP weekend starts now!",
+    "icon": "🔥",
+    "type": 2
+  },
+  {
+    "timestamp": "2025-10-29T09:30:00Z",
+    "message": "🎃 Halloween Event extended until Nov 5!",
+    "icon": "🎃",
+    "type": 3
+  },
+  {
+    "timestamp": "2025-10-29T08:00:00Z",
+    "message": "⚠️ Server maintenance in 2 hours",
+    "icon": "⚠️",
+    "type": 1
+  }
+]
+
