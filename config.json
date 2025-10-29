@@ -1,15 +1,17 @@
 {
-  "apiBaseUrl": "http://localhost:5000/api/",
+  "apiBaseUrl": "https://raw.githubusercontent.com/towerrealms-cloud/towerrealms-api/main/",
+  "authServerUrl": "http://109.67.178.193:29131/api/",
   "timeoutSeconds": 30,
-  "useFallback": true,
+  "useFallback": false,
   "localDataPath": "Data",
-  "notificationsUrl": "",
+  "notificationsUrl": "https://raw.githubusercontent.com/towerrealms-cloud/towerrealms-api/main/notifications.json",
   "clientDownloadUrl": "https://github.com/towerrealms-cloud/towerrealms-api/releases/download/V1.0.0/TowerRealms_Client.zip",
   "clientZipFileName": "TowerRealms_Client.zip",
   "database": {
-    "server": "",
-    "database": "",
+    "server": ".\SQLEXPRESS",
+    "database": "ACCOUNT_DBF",
     "user": "",
-    "password": ""
+    "password": "",
+    "port": 1433
   }
 }
