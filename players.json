@@ -1,0 +1,11 @@
+[
+  { "name": "Aquila", "level": 175, "class": "Templar" },
+  { "name": "Nyx", "level": 170, "class": "Harlequin" },
+  { "name": "Zephyr", "level": 169, "class": "Crackshooter" },
+  { "name": "Phoenix", "level": 168, "class": "Blade" },
+  { "name": "Luna", "level": 165, "class": "Billposter" },
+  { "name": "Titan", "level": 163, "class": "Knight" },
+  { "name": "Aria", "level": 161, "class": "Ringmaster" },
+  { "name": "Drake", "level": 160, "class": "Ranger" }
+]
+
