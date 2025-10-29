@@ -1,27 +1,9 @@
 [
   {
-    "title": "Double EXP Weekend",
-    "description": "Earn double experience points all weekend! Perfect time to level up your character and progress faster.",
-    "start": "2025-11-01T00:00:00Z",
-    "end": "2025-11-03T23:59:59Z",
-    "icon": "exp.png",
-    "status": 0
-  },
-  {
-    "title": "Guild Siege",
-    "description": "Top guilds fight for domination in the arena. Prove your guild's strength and claim victory!",
-    "start": "2025-11-05T18:00:00Z",
-    "end": "2025-11-05T20:00:00Z",
-    "icon": "siege.png",
-    "status": 0
-  },
-  {
-    "title": "Crystal Hunt",
-    "description": "Find rare Black Crystals hidden across the world. Trade them for exclusive rewards!",
-    "start": "2025-11-10T12:00:00Z",
-    "end": "2025-11-17T12:00:00Z",
-    "icon": "crystal.png",
-    "status": 0
+    "name": "Double EXP Weekend",
+    "startTime": "2025-11-01T00:00:00Z",
+    "endTime": "2025-11-03T23:59:59Z",
+    "description": "All players receive 2x EXP!"
   }
 ]
 

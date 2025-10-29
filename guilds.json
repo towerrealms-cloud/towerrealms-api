@@ -1,8 +1,21 @@
 [
-  { "name": "CrystalCrown", "level": 50, "members": 78 },
-  { "name": "VoidShards", "level": 49, "members": 62 },
-  { "name": "Eclipse", "level": 47, "members": 51 },
-  { "name": "StormRiders", "level": 45, "members": 48 },
-  { "name": "DarkLegion", "level": 43, "members": 42 }
+  {
+    "rank": 1,
+    "name": "TowerRealms",
+    "level": 10,
+    "members": 25
+  },
+  {
+    "rank": 2,
+    "name": "Warriors",
+    "level": 8,
+    "members": 18
+  },
+  {
+    "rank": 3,
+    "name": "Legends",
+    "level": 7,
+    "members": 15
+  }
 ]
 

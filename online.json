@@ -1,6 +1,5 @@
 {
-  "online": 142,
-  "inLauncher": 78,
-  "inGame": 64
+  "count": 5,
+  "players": ["itzikgut", "Player2", "Player3", "Player4", "Player5"]
 }
 

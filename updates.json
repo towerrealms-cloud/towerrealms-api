@@ -1,8 +1,15 @@
 [
-  { "date": "2025-10-28", "title": "Halloween Event is Live!" },
-  { "date": "2025-10-15", "title": "New dungeon: Abyss of Shards" },
-  { "date": "2025-10-01", "title": "Balance patch deployed" },
-  { "date": "2025-09-20", "title": "Guild Wars season started" },
-  { "date": "2025-09-10", "title": "New pet system released" }
+  {
+    "date": "2025-10-29",
+    "title": "Server Launch!"
+  },
+  {
+    "date": "2025-10-28",
+    "title": "Launcher Updated"
+  },
+  {
+    "date": "2025-10-27",
+    "title": "Beta Testing Started"
+  }
 ]
 
