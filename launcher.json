@@ -1,0 +1,9 @@
+{
+  "launcherVersion": "1.1.0",
+  "launcherUrl": "https://github.com/towerrealms-cloud/towerrealms-api/releases/download/v1.1.0/TowerRealms_Launcher_1.1.0.zip",
+  "launcherFile": "TowerRealms.Launcher.exe",
+  "description": "Saved Accounts System + AES-256 Encryption Fix + Auto-Update Support",
+  "releaseDate": "2025-11-01T14:15:00",
+  "mandatory": false
+}
+
