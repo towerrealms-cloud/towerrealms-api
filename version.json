@@ -1,6 +1,6 @@
 ﻿{
-    "changelog":  "CRITICAL FIX: Added Server.ini to launcher. Friends can now see Tower-1 channel!",
-    "build":  1301,
-    "version":  "1.3.1",
-    "downloadUrl":  "https://github.com/towerrealms-cloud/towerrealms-api/releases/download/v1.3.1/TowerRealms_Launcher_v1.3.1.zip"
+  "version": "1.3.1",
+  "build": 1301,
+  "changelog": "CRITICAL FIX: Server.ini now checked in launcher folder first. Channel selection fixed!",
+  "downloadUrl": "https://github.com/towerrealms-cloud/towerrealms-api/releases/download/v1.3.1/TowerRealms_Launcher_v1.3.1.zip"
 }
