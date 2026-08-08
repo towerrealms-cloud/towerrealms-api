@@ -1,0 +1,13 @@
+# Update-system metadata is signed over its exact bytes.
+#
+# git is a canonicaliser: with core.autocrlf=true it rewrites CRLF to LF on commit, which
+# once made the served channel.json 26 bytes shorter than the file that had been signed.
+# Every launcher then correctly rejected the release as tampered with.
+#
+# -text tells git never to touch line endings in these paths, so what is signed is what is
+# committed is what raw.githubusercontent.com serves. The publisher also emits LF, so this
+# is the second of two independent guards rather than the only one.
+
+channels/**    -text
+manifests/**   -text
+*.sig          -text
