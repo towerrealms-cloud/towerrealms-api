@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "channel": "stable",
+  "releaseId": "2026.08.08.03",
+  "publishedUtc": "2026-08-08T17:32:00.7578578Z",
+  "game": {
+    "version": "1.0.15",
+    "build": 1000015,
+    "manifestUrl": "https://raw.githubusercontent.com/towerrealms-cloud/towerrealms-api/main/manifests/game-2026.08.08.03.json.gz",
+    "manifestSha256": "40739dcb188bf331c99a0a941e25dcfb34d4ce5350cdae05cebdfa5960bf4d64",
+    "manifestSize": 1429766,
+    "manifestSigUrl": "https://raw.githubusercontent.com/towerrealms-cloud/towerrealms-api/main/manifests/game-2026.08.08.03.json.gz.sig"
+  },
+  "launcher": {
+    "version": "1.1.0",
+    "build": 1001000,
+    "manifestUrl": "https://raw.githubusercontent.com/towerrealms-cloud/towerrealms-api/main/manifests/launcher-1.1.0.json.gz",
+    "manifestSha256": "6fcad9055b6431c537e5df425437e7fdccfd4ea187927b17a6823dbaf0180540",
+    "manifestSize": 1669,
+    "manifestSigUrl": "https://raw.githubusercontent.com/towerrealms-cloud/towerrealms-api/main/manifests/launcher-1.1.0.json.gz.sig"
+  },
+  "compat": {
+    "msgVer": "20100412",
+    "cachePort": 33676,
+    "minLauncherBuild": 0
+  }
+}
