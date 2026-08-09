@@ -1,23 +1,23 @@
 {
   "schema": 1,
   "channel": "stable",
-  "releaseId": "2026.08.08.04",
-  "publishedUtc": "2026-08-08T20:14:26.7904900Z",
+  "releaseId": "2026.08.09.01",
+  "publishedUtc": "2026-08-09T03:09:51.1868560Z",
   "game": {
     "version": "1.0.15",
     "build": 1000015,
-    "manifestUrl": "https://raw.githubusercontent.com/towerrealms-cloud/towerrealms-api/main/manifests/game-2026.08.08.04.json.gz",
-    "manifestSha256": "eb6f774132fbe6be5eb1437aac0fe00dc1dd91f2b0dedcdfd5feb986cd7aae28",
-    "manifestSize": 1430698,
-    "manifestSigUrl": "https://raw.githubusercontent.com/towerrealms-cloud/towerrealms-api/main/manifests/game-2026.08.08.04.json.gz.sig"
+    "manifestUrl": "https://raw.githubusercontent.com/towerrealms-cloud/towerrealms-api/main/manifests/game-2026.08.09.01.json.gz",
+    "manifestSha256": "f50730c3138f03a8cc132e79b5cffcc12b59dd75604c0eb03b879625b4cc767b",
+    "manifestSize": 1430700,
+    "manifestSigUrl": "https://raw.githubusercontent.com/towerrealms-cloud/towerrealms-api/main/manifests/game-2026.08.09.01.json.gz.sig"
   },
   "launcher": {
-    "version": "1.2.0",
-    "build": 1002000,
-    "manifestUrl": "https://raw.githubusercontent.com/towerrealms-cloud/towerrealms-api/main/manifests/launcher-1.2.0.json.gz",
-    "manifestSha256": "c6747269684fcf6d27175c3f57164d02595843cb80b8ca1303d632ffbda63b55",
-    "manifestSize": 1674,
-    "manifestSigUrl": "https://raw.githubusercontent.com/towerrealms-cloud/towerrealms-api/main/manifests/launcher-1.2.0.json.gz.sig"
+    "version": "1.2.1",
+    "build": 1002001,
+    "manifestUrl": "https://raw.githubusercontent.com/towerrealms-cloud/towerrealms-api/main/manifests/launcher-1.2.1.json.gz",
+    "manifestSha256": "660b42d1d0ec1eb40f44754bce5ddc138a9d02abbca6c7b79bfb53407e217a25",
+    "manifestSize": 1771,
+    "manifestSigUrl": "https://raw.githubusercontent.com/towerrealms-cloud/towerrealms-api/main/manifests/launcher-1.2.1.json.gz.sig"
   },
   "compat": {
     "msgVer": "20100412",
