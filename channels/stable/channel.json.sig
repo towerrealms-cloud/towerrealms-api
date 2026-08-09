@@ -1,7 +1,7 @@
 {
   "alg": "ES256",
   "keyId": "tr-20260808",
-  "sig": "83aI+PVAYAQH0o5OAGVyH8hprfgVyGrFfFjy1T1oZMmE40zeBiWVwaswAeGrFV/RrrQFQSgkndVjzv7G37sBOA==",
-  "signedUtc": "2026-08-09T12:56:47.7791557Z",
-  "sha256": "f495a65e790159d03a6cddb5e61082b12f854124c7019d62f9485286a975679a"
+  "sig": "Q3ShZZeLlBWhE2UQZoldRK61WS6AhrJPQ0E3Y+F8tEhh1n2aqUjO5VEYFmbr0XgPzIHpNznW0m3d/vg//PHQ/g==",
+  "signedUtc": "2026-08-09T13:14:17.4914112Z",
+  "sha256": "ddbfe48d38debf2b2f753d1ec5137dca4450c3719d650aec237c6640768e54ed"
 }
