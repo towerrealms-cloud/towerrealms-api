@@ -2,7 +2,7 @@
   "schema": 1,
   "channel": "stable",
   "releaseId": "2026.08.11.03",
-  "publishedUtc": "2026-08-11T11:08:56.8891707Z",
+  "publishedUtc": "2026-08-11T11:53:59.0600991Z",
   "game": {
     "version": "1.0.16",
     "build": 1000016,
@@ -12,17 +12,17 @@
     "manifestSigUrl": "https://raw.githubusercontent.com/towerrealms-cloud/towerrealms-api/main/manifests/game-2026.08.11.03.json.gz.sig"
   },
   "launcher": {
-    "version": "1.3.5",
-    "build": 1003005,
-    "manifestUrl": "https://raw.githubusercontent.com/towerrealms-cloud/towerrealms-api/main/manifests/launcher-1.3.5.json.gz",
-    "manifestSha256": "eb7ce57dfe6ee99336c373ba55e86f015a73ae49bcb7c2ae6e8c4cfd35974ff2",
-    "manifestSize": 553,
-    "manifestSigUrl": "https://raw.githubusercontent.com/towerrealms-cloud/towerrealms-api/main/manifests/launcher-1.3.5.json.gz.sig"
+    "version": "1.3.6",
+    "build": 1003006,
+    "manifestUrl": "https://raw.githubusercontent.com/towerrealms-cloud/towerrealms-api/main/manifests/launcher-1.3.6.json.gz",
+    "manifestSha256": "5332f471a1f4f247fe6a41a32acb86c6322008e0948593ac0229faddac93eb10",
+    "manifestSize": 551,
+    "manifestSigUrl": "https://raw.githubusercontent.com/towerrealms-cloud/towerrealms-api/main/manifests/launcher-1.3.6.json.gz.sig"
   },
   "compat": {
     "msgVer": "20100412",
     "cachePort": 33676,
-    "minLauncherBuild": 0
+    "minLauncherBuild": 1003006
   },
   "notice": "Arcane Reliquary UI, Party Finder and Pet Filter"
 }
