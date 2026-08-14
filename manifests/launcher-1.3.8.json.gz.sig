@@ -1,0 +1,7 @@
+{
+  "alg": "ES256",
+  "keyId": "tr-20260808",
+  "sig": "o2X0966sVrHeh8zPqLddfoDz530drLGh8cHPTvgZ6wrV8ijx0mYGtYvQxQrkR+GqSOW/QTQ4ZS37Rw5VAWroUg==",
+  "signedUtc": "2026-08-14T12:19:11.5015786Z",
+  "sha256": "3a34f20b49ae1d20928bb131f8267f98a10e891635000ff78561850448002bd7"
+}
